@@ -64,3 +64,19 @@ void display()
     }
     cout << endl;
 }
+
+void binnarySearch()
+{
+    char ulang;
+    do
+    {
+        cout << "\n==========================================\n";
+        cout << " Pencarian binnary search                   \n";
+        cout << "\n==========================================\n";
+        cout << "Masukkan element yang ingin dicari: ";
+        cin >> x;
+
+        
+    }
+    
+}
